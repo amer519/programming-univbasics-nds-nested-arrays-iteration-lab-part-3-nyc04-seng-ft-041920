@@ -11,7 +11,7 @@ element += 1
    end
 row += 1
   end
-  just_string.join
+  just_string.join(" ")
 end
 
 
