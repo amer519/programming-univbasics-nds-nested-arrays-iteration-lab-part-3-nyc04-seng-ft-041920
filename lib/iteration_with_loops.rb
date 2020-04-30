@@ -13,4 +13,4 @@ row += 1
   end
 end
 
-just_string.join(" ")
+just_string.join
