@@ -5,6 +5,10 @@ while row < src.count do
   element = 0
 while element < src[row].count do
   if src[row][element].class == (String) 
-  just_string << 
-
+  just_string << src[row][element]
+end
+element += 1
+end
+row += 1
+end
 end
