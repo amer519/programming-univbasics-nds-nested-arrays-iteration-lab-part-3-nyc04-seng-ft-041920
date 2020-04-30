@@ -11,6 +11,7 @@ element += 1
    end
 row += 1
   end
+  just_string.join
 end
 
-just_string.join
+
