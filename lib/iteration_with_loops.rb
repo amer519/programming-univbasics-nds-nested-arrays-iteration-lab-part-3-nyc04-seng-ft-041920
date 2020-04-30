@@ -13,4 +13,4 @@ row += 1
   end
 end
 
-[just_string]
+[just_string.join]
